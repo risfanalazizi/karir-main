@@ -21,6 +21,7 @@
 
     {{-- Call style --}}
     <link rel="stylesheet" href="{{ url('css/style.css') }}" />
+
 </head>
 
 <body>
