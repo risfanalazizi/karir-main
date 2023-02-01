@@ -23,20 +23,20 @@
     <link rel="stylesheet" href="{{ url('css/style.css') }}" />
 </head>
 
-<body>
+<body >
     <div class="login">
-        <img src="{{ url('img/login.jpg') }}" class="card-img" style="min-width: 100%; height: 730px;" alt="...">
+        <img src="{{ url('img/login.png') }}" class="card-img" style="min-width: 100%; height: 730px;" alt="...">
         <div class="card-img-overlay">
             <div class="card position-absolute top-50 start-50 translate-middle" style="width: 35rem;">
                 <div class="container">
                     <div class="container mx-auto mt-5 mb-5">
                         <div class="row" style="justify-content: center;">
-                            <div class="col-2"></div>
-                            <div class="col-8">
+                            <div class="col-1"></div>
+                            <div class="col-10">
                                 <div style="padding:8px;"><img src="{{ url('img/logo.png') }}" style="max-width: 90px; max-height: 92px; float:left; margin:0 8px 4px 0;" />
                                     <div class="row mt-3">
                                         <div style="font-size: 20px; font-weight: bold;">
-                                            Aplikasi Inventaris
+                                            Career Development Center
                                         </div>
                                         <div style="font-size: 16px; color: #757575;">
                                             SMK Al - Ittihad - Cianjur
@@ -44,7 +44,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-2"></div>
+                            <div class="col-1"></div>
                         </div>
                         <div class="row mt-5">
                             <h2>

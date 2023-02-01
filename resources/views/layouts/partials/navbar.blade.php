@@ -8,7 +8,7 @@
           <img src="{{ url('img/logo.png') }}" class="brand" alt="AL Ittihad" />
         </div>
         <div class="brand-caption">
-          <p class="title">Aplikasi Inventaris</p>
+          <p class="title">Career Development Center</p>
           <p class="caption">SMK Al - Ittihad - Cianjur</p>
         </div>
       </a>
@@ -18,7 +18,8 @@
       </button>
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0 me-4">
+          <button class="btn btn-sm btn-light me-4">Lowongan</button>
           <li class="nav-item mx-2">
             <button type="button" class="btn btn-sm" data-bs-toggle="modal" data-bs-target="">
               <i class="fa-sharp fa-solid fa-bell"></i><span class="position-absolute translate-middle p-1 bg-danger border border-light rounded-circle"><span class=" visually-hidden">unread messages</span></span>
@@ -26,7 +27,7 @@
           </li>
         </ul>
         <button class="btn bg-primary text-white rounded-pill mx-2 px-3" data-bs-toggle="modal" data-bs-target="#loginModal">
-          A
+          N
         </button>
         <div class="btn-group" role="group">
           <button id="btnGroupDrop1" type="button" class="btn btn-light dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
@@ -36,7 +37,7 @@
             <li>
               <button type="button" class="dropdown-item btn btn-sm" data-bs-toggle="dropdown" aria-expanded="false">
                 <i class="fa-solid fa-right-from-bracket"></i>
-                Sign out
+                 Sign out
               </button>
             </li>
           </ul>

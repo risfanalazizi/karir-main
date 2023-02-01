@@ -17,6 +17,9 @@ use App\Http\Controllers\AssetController;
 Route::get('/login', function () {
     return view('auth/login');
 });
+Route::get('/detaillowongan', function () {
+    return view('application/detaillowongan');
+});
 
 Route::controller(AssetController::class)->group(function () {
     Route::get('/', 'index')->name('asset.index');
